@@ -1,0 +1,6 @@
+2023-05-27 16:13:50,127 [ERROR] - info - get_coin_by_name:26 - [ERROR] name 'names' is not defined
+2023-05-27 16:14:13,768 [ERROR] - info - get_coin_by_name:26 - [ERROR] 'Crypto' object is not iterable
+2023-05-27 16:15:13,661 [ERROR] - info - get_coin_by_name:27 - [ERROR] 'Crypto' object is not iterable
+2023-05-27 16:15:35,796 [ERROR] - info - get_coin_by_name:27 - [ERROR] 'Crypto' object is not iterable
+2023-05-27 16:18:53,642 [ERROR] - info -    rising_coins:46 - [ERROR] 'Crypto' object is not iterable
+2023-05-27 16:19:36,521 [ERROR] - __main__ -     bot_handler:107 - [ERROR] A request to the Telegram API was unsuccessful. Error code: 400. Description: Bad Request: message is too long
